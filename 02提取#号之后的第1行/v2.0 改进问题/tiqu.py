@@ -11,7 +11,7 @@ for line in file_old:
             read=file_old.next()
             new.write(read)
     except StopIteration:
-        # Óöµ½StopIteration¾ÍÍË³öÑ­»·
+        # é‡åˆ°StopIterationå°±é€€å‡ºå¾ªç¯
         break
 file_old.close()
 new.close()
