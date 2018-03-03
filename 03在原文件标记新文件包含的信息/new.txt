@@ -1,0 +1,353 @@
+Aa-0	abrc_plantCell	1001_accessions
+Alst-1	abrc_plantCell	1001_accessions
+Amel-l
+An-2	abrc_plantCell
+Ang-0	abrc_plantCell	1001_accessions
+Ann-1	abrc_plantCell
+Arby-l
+Ba-1	abrc_plantCell	1001_accessions
+Baa-l
+Be-1	abrc_plantCell
+Benk-1	abrc_plantCell	1001_accessions
+BIh-2
+Boot-1	abrc_plantCell	1001_accessions
+Bs-2	abrc_plantCell
+Bsch-0	abrc_plantCell	1001_accessions
+Bu-8
+Ca-0	abrc_plantCell	1001_accessions
+Cha-0	abrc_plantCell
+Chat-1	abrc_plantCell	1001_accessions
+CIBC2
+CIBC4
+CIBC5
+Cit-0	abrc_plantCell
+Cnt-1	abrc_plantCell	1001_accessions
+Co-2	abrc_plantCell
+Co-4	abrc_plantCell
+ColD_Spring_HarborLab-5
+Com-1	abrc_plantCell	1001_accessions
+Da-0	abrc_plantCell	1001_accessions
+Da(1)-12	abrc_plantCell	1001_accessions
+Db-0	abrc_plantCell
+Di-1	abrc_plantCell
+Do-0	abrc_plantCell	1001_accessions
+Dra-2	abrc_plantCell
+EDe-1
+Ep-0	abrc_plantCell
+ES-0
+ESt-0
+Fi-1	abrc_plantCell
+Fr-4	abrc_plantCell
+Ga-2	abrc_plantCell
+Ge-1	abrc_plantCell
+Gel-1	abrc_plantCell	1001_accessions
+Gie-0	abrc_plantCell	1001_accessions
+Go-0	abrc_plantCell
+Gr-5	abrc_plantCell	1001_accessions
+Gu-1	abrc_plantCell
+Ha-0	abrc_plantCell	1001_accessions
+Hau-0		1001_accessions
+Hey-1	abrc_plantCell
+Hh-0	abrc_plantCell	1001_accessions
+Hn-0	abrc_plantCell	1001_accessions
+Je-0	abrc_plantCell	1001_accessions
+JI-3
+Jm-1	abrc_plantCell
+Kelsterbach-2	abrc_plantCell
+Kl_5
+Kn-0	abrc_plantCell	1001_accessions
+Knox-11
+Kr-0	abrc_plantCell
+Kro-0	abrc_plantCell
+Krot-2	abrc_plantCell
+Li-3	abrc_plantCell
+Li-5:2	abrc_plantCell
+Li-6	abrc_plantCell
+Li-7	abrc_plantCell	1001_accessions
+Mc-0	abrc_plantCell
+Mh-0	abrc_plantCell	1001_accessions
+Mnz-0	abrc_plantCell	1001_accessions
+N4	abrc_plantCell
+N7	abrc_plantCell
+Nc-1	abrc_plantCell	1001_accessions
+NFC20
+No-0	abrc_plantCell	1001_accessions
+Nok-1	abrc_plantCell
+Nw-0	abrc_plantCell	1001_accessions
+Nw-2	abrc_plantCell
+Nz1	abrc_plantCell
+0b-1
+OlD-1
+0r-0
+Pa-2	abrc_plantCell
+PHW-10	abrc_plantCell
+PHW-13	abrc_plantCell
+PHW-14	abrc_plantCell
+PHW-20	abrc_plantCell
+PHW-26	abrc_plantCell
+PHW-28	abrc_plantCell
+PHW-31	abrc_plantCell
+PHW-33	abrc_plantCell
+PHW-35	abrc_plantCell
+PHW-36	abrc_plantCell
+PHW-37	abrc_plantCell
+Pla-0	abrc_plantCell	1001_accessions
+Pn-0	abrc_plantCell	1001_accessions
+Pog-0	abrc_plantCell	1001_accessions
+Pr-0	abrc_plantCell
+PUZ24
+Rhen-1	abrc_plantCell	1001_accessions
+Rou_0
+RRS-7	abrc_plantCell	1001_accessions
+S96	abrc_plantCell
+Sapporo-0	abrc_plantCell
+Sav-0	abrc_plantCell
+Sei-0	abrc_plantCell	1001_accessions
+Sg-1		1001_accessions
+Sh-0	abrc_plantCell
+Si-0	abrc_plantCell	1001_accessions
+Sp-0	abrc_plantCell	1001_accessions
+Ste-0	abrc_plantCell
+Tha-1	abrc_plantCell	1001_accessions
+Ting-1		1001_accessions
+Tiv-1	abrc_plantCell
+Tscha-1	abrc_plantCell	1001_accessions
+Tsu-0	abrc_plantCell	1001_accessions
+Ty-0	abrc_plantCell
+Uk-1	abrc_plantCell	1001_accessions
+Uk-2	abrc_plantCell
+Utrecht	abrc_plantCell	1001_accessions
+Wa-1	abrc_plantCell	1001_accessions
+Wag-3	abrc_plantCell
+wag-4
+wag-5
+WAR	abrc_plantCell	1001_accessions
+Wc-2	abrc_plantCell
+WI-0
+Ws	abrc_plantCell
+Wt-3	abrc_plantCell
+Zu-1	abrc_plantCell	1001_accessions
+Ors-1	abrc_plantCell
+Ors-2	abrc_plantCell
+11ME1.32	abrc_plantCell
+11PNA4.101
+328PNA054	abrc_plantCell
+627ME-4Y1
+Ag-0	abrc_plantCell	1001_accessions
+Alc-0	abrc_plantCell
+ALL1-2	abrc_plantCell
+ALL1-3	abrc_plantCell
+An-1	abrc_plantCell	1001_accessions
+App1-16	abrc_plantCell	1001_accessions
+Ba1-2	abrc_plantCell
+Bay-0	abrc_plantCell
+Belmonte-4-94	abrc_plantCell
+Bg-2	abrc_plantCell
+Bla-1	abrc_plantCell	1001_accessions
+Blh-1	abrc_plantCell
+Bor-1	abrc_plantCell	1001_accessions
+Bor-4	abrc_plantCell	1001_accessions
+Br-0	abrc_plantCell	1001_accessions
+Bro1-6
+Bu-0	abrc_plantCell	1001_accessions
+BUI
+Bur-0	abrc_plantCell	1001_accessions
+C24	abrc_plantCell
+CAM-16	abrc_plantCell
+CAM-61	abrc_plantCell
+Can-0	abrc_plantCell	1001_accessions
+Cen-0	abrc_plantCell
+CIBC-17	abrc_plantCell	1001_accessions
+CLE-6
+Col-0	abrc_plantCell	1001_accessions
+Ct-1	abrc_plantCell	1001_accessions
+CUR-3	abrc_plantCell
+CVi-0
+Dra3-1		1001_accessions
+Draiv1-14
+DraiV1-5
+DralV1-7
+DralV6-16
+DralV6-35
+Duk	abrc_plantCell	1001_accessions
+EDen-2
+EDi-0
+Est-1	abrc_plantCell
+Fab-4
+Fei-0	abrc_plantCell	1001_accessions
+Fja1-1
+Fja1-2
+Fja1-5
+Ga-0	abrc_plantCell	1001_accessions
+GD-1
+Ge-0		1001_accessions
+Got-7	abrc_plantCell
+Gr-1	abrc_plantCell	1001_accessions
+Gul1-2		1001_accessions
+Gy-0	abrc_plantCell	1001_accessions
+Hi-0	abrc_plantCell
+HoD
+Hov4-1	abrc_plantCell	1001_accessions
+HovDala-2
+HR-5	abrc_plantCell	1001_accessions
+Hs-0	abrc_plantCell	1001_accessions
+HSM
+In-0	abrc_plantCell	1001_accessions
+JEA    
+Ka-0	abrc_plantCell
+Kas-2		1001_accessions
+KBS-Mac-8	abrc_plantCell
+Kelsterbach-4	abrc_plantCell	1001_accessions
+Kin-0	abrc_plantCell	1001_accessions
+Kno-18	abrc_plantCell
+KoIn
+Kulturen-1	abrc_plantCell	1001_accessions
+LAC-3	abrc_plantCell
+LAC-5	abrc_plantCell
+LC-0
+LDV-14
+LDV-25	abrc_plantCell
+LDV-34	abrc_plantCell
+LDV-58	abrc_plantCell
+Ler-1	abrc_plantCell	1001_accessions
+LI-0F-095
+Liarum	abrc_plantCell	1001_accessions
+Lillo-1
+Lip-0	abrc_plantCell
+Lis-1	abrc_plantCell	1001_accessions
+Lisse	abrc_plantCell
+LL-0	abrc_plantCell	1001_accessions
+Lm-2	abrc_plantCell	1001_accessions
+Lom1-1	abrc_plantCell	1001_accessions
+Lov-5
+Lp2-2	abrc_plantCell	1001_accessions
+Lp2-6	abrc_plantCell	1001_accessions
+LunD
+Lz-0	abrc_plantCell
+Map-42	abrc_plantCell	1001_accessions
+MIB-15	abrc_plantCell
+MIB-22	abrc_plantCell
+MIB-28	abrc_plantCell
+MIB-84	abrc_plantCell
+MNF-che-2
+MNF-jac-32
+MNF-pot-48
+MNF-pot-68
+MOG-37	abrc_plantCell
+Mr-0	abrc_plantCell
+Mrk-0	abrc_plantCell
+Mt-0	abrc_plantCell
+Mz-0	abrc_plantCell	1001_accessions
+N13	abrc_plantCell
+Na-1	abrc_plantCell	1001_accessions
+NC-6		1001_accessions
+ND-1
+NFA-10	abrc_plantCell	1001_accessions
+NfA-8
+Omo2-1	abrc_plantCell
+0r-1
+Ost-0	abrc_plantCell	1001_accessions
+0y-0
+pa-1
+PAR-3	abrc_plantCell
+PAR-4	abrc_plantCell
+PAR-5
+paw_3
+PENT-1
+Per-1	abrc_plantCell	1001_accessions
+Petergof	abrc_plantCell	1001_accessions
+PHW-34		1001_accessions
+Pna-17	abrc_plantCell	1001_accessions
+Pro-0	abrc_plantCell
+Pu2-23	abrc_plantCell	1001_accessions
+Ra-0	abrc_plantCell	1001_accessions
+Rak-2	abrc_plantCell	1001_accessions
+Ren-1	abrc_plantCell
+Rev-2		1001_accessions
+Rmx-A180	abrc_plantCell	1001_accessions
+ROM-1	abrc_plantCell
+Rsch-4	abrc_plantCell	1001_accessions
+Sanna-2	abrc_plantCell	1001_accessions
+Sap-0	abrc_plantCell
+Sav-1
+Se-0	abrc_plantCell	1001_accessions
+shahDara
+SLSP-30	abrc_plantCell
+Sparta-1		1001_accessions
+Sq-8	abrc_plantCell	1001_accessions
+St-0	abrc_plantCell	1001_accessions
+Ste-3	abrc_plantCell
+T1040	abrc_plantCell	1001_accessions
+T1060		1001_accessions
+T1080		1001_accessions
+T1110	abrc_plantCell	1001_accessions
+T1130		1001_accessions
+T540		1001_accessions
+T620		1001_accessions
+T690		1001_accessions
+Ta-0	abrc_plantCell	1001_accessions
+TaD01
+Tamm-2	abrc_plantCell	1001_accessions
+TDr-1	abrc_plantCell	1001_accessions
+TDr-18		1001_accessions
+TDr-3	abrc_plantCell
+TDr-8	abrc_plantCell	1001_accessions
+Tomegap-2		1001_accessions
+Tottarp-2	abrc_plantCell	1001_accessions
+TOu-A1-115
+TOU-A1-116	abrc_plantCell
+Tou_A1-12
+Tou_A1-43
+TOU-A1-62	abrc_plantCell
+TOu-A1-67
+TOU-A1-96	abrc_plantCell
+TOU-C-3	abrc_plantCell
+TOu-E-11
+TOU-H-12	abrc_plantCell
+TOU-H-13	abrc_plantCell
+TOU-I-17	abrc_plantCell
+TOU-I-2	abrc_plantCell
+TOU-I-6	abrc_plantCell
+TOU-J-3	abrc_plantCell
+TOU-K-3	abrc_plantCell
+Ts-1	abrc_plantCell	1001_accessions
+UDul1-34
+UK22
+UK37
+UK48
+UK80
+UKNW06-059	abrc_plantCell
+UKNW06-060	abrc_plantCell
+UKNW06-386	abrc_plantCell
+UKNW06-436	abrc_plantCell
+UKNW06-460
+UKSE06-062
+uKSE06-192
+UKSE06-272	abrc_plantCell
+UKSE06-278	abrc_plantCell
+uKSE06-349
+UKSE06-351	abrc_plantCell
+uKSE06-414
+UKSE06-429	abrc_plantCell
+UKSE06-466	abrc_plantCell
+UKSE06-482	abrc_plantCell
+UKSE06-520	abrc_plantCell
+UKSE06-628	abrc_plantCell
+UKCW06202
+UII2-3
+UII2-5
+UII3-4
+UoD-7
+Van-0	abrc_plantCell	1001_accessions
+Var2-1
+VOU-1	abrc_plantCell
+VOu-2
+Wei-0	abrc_plantCell	1001_accessions
+WiI-1
+Ws-0	abrc_plantCell
+Wt-5	abrc_plantCell	1001_accessions
+Yo-0	abrc_plantCell	1001_accessions
+ZDr-6
+ZDrI2-24
+ZDrI2-25
+RRS
