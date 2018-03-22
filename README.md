@@ -1,2 +1,2 @@
 # JUN-Python
-https://www.zybuluo.com/wbgcas123/note/1047553
+处理部分生物学文件信息所编写使用的代码
