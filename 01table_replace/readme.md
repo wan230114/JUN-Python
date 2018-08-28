@@ -9,7 +9,7 @@
 
 # 程序说明：
 
-博士想从**file_old.txt**里面筛选特定的物种，以便进一步构建分子进化树进行信息筛选。
+博士想从 **file_old.txt** 里面筛选特定的物种，以便进一步构建分子进化树进行信息筛选。
 
 如想把仅有种名 AHYPO 的 **lcl|AHYPO** ，替换为包含了科、属、种的 **Amaranthaceae_Amaranthus_AHYPO**
 
